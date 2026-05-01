@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dnaoemin1eooi"
-path="res://.godot/imported/Sprite-total-perrito.png-9edbbc2c38006cdad5aacf39944dd52f.ctex"
+uid="uid://btbjvosom6k3i"
+path="res://.godot/imported/(C)Sprite-conejo-caminata.png-baaa048a4090e46f49f396da86b6eca6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Characters/Perro/Sprite-total-perrito.png"
-dest_files=["res://.godot/imported/Sprite-total-perrito.png-9edbbc2c38006cdad5aacf39944dd52f.ctex"]
+source_file="res://Characters/Conejo/(C)Sprite-conejo-caminata.png"
+dest_files=["res://.godot/imported/(C)Sprite-conejo-caminata.png-baaa048a4090e46f49f396da86b6eca6.ctex"]
 
 [params]
 
