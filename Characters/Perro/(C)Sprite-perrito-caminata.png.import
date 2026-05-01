@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c8448xl1vvrct"
-path="res://.godot/imported/Sprite-total-cerdito.png-01b8e206dc56d045b4180a5ab0c1a4f4.ctex"
+uid="uid://b6bn1yxdolqbi"
+path="res://.godot/imported/(C)Sprite-perrito-caminata.png-0203200992b0c84a5ee288227c5d8690.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Characters/Cerdo/Sprite-total-cerdito.png"
-dest_files=["res://.godot/imported/Sprite-total-cerdito.png-01b8e206dc56d045b4180a5ab0c1a4f4.ctex"]
+source_file="res://Characters/Perro/(C)Sprite-perrito-caminata.png"
+dest_files=["res://.godot/imported/(C)Sprite-perrito-caminata.png-0203200992b0c84a5ee288227c5d8690.ctex"]
 
 [params]
 
