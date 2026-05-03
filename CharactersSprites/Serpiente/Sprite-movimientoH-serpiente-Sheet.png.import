@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://upytygvt50d"
-path="res://.godot/imported/Sprite-perrito-idle-Sheet.png-6f91348aba6d24cba22805ae856c394b.ctex"
+uid="uid://dlqbljiwndt3b"
+path="res://.godot/imported/Sprite-movimientoH-serpiente-Sheet.png-d67a2334a11bb800d2e0bee3155f75fb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Characters/Perro/Sprite-perrito-idle-Sheet.png"
-dest_files=["res://.godot/imported/Sprite-perrito-idle-Sheet.png-6f91348aba6d24cba22805ae856c394b.ctex"]
+source_file="res://CharactersSprites/Serpiente/Sprite-movimientoH-serpiente-Sheet.png"
+dest_files=["res://.godot/imported/Sprite-movimientoH-serpiente-Sheet.png-d67a2334a11bb800d2e0bee3155f75fb.ctex"]
 
 [params]
 

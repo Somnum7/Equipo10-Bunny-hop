@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://btbjvosom6k3i"
-path="res://.godot/imported/(C)Sprite-conejo-caminata.png-baaa048a4090e46f49f396da86b6eca6.ctex"
+uid="uid://iowjbv8u8j78"
+path="res://.godot/imported/(C)Sprite-cerdito-caminata.png-e55204542cf888e7f01de7b25eece269.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Characters/Conejo/(C)Sprite-conejo-caminata.png"
-dest_files=["res://.godot/imported/(C)Sprite-conejo-caminata.png-baaa048a4090e46f49f396da86b6eca6.ctex"]
+source_file="res://CharactersSprites/Cerdo/(C)Sprite-cerdito-caminata.png"
+dest_files=["res://.godot/imported/(C)Sprite-cerdito-caminata.png-e55204542cf888e7f01de7b25eece269.ctex"]
 
 [params]
 
