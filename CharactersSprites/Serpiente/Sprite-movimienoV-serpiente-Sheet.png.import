@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://iowjbv8u8j78"
-path="res://.godot/imported/(C)Sprite-cerdito-caminata.png-f5d02cf45234743aa8ce8b6d16455682.ctex"
+uid="uid://cng324b8vnuaq"
+path="res://.godot/imported/Sprite-movimienoV-serpiente-Sheet.png-13a1eac410da685594b5f96c9f7cb5c0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Characters/Cerdo/(C)Sprite-cerdito-caminata.png"
-dest_files=["res://.godot/imported/(C)Sprite-cerdito-caminata.png-f5d02cf45234743aa8ce8b6d16455682.ctex"]
+source_file="res://CharactersSprites/Serpiente/Sprite-movimienoV-serpiente-Sheet.png"
+dest_files=["res://.godot/imported/Sprite-movimienoV-serpiente-Sheet.png-13a1eac410da685594b5f96c9f7cb5c0.ctex"]
 
 [params]
 

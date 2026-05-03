@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b6bn1yxdolqbi"
-path="res://.godot/imported/(C)Sprite-perrito-caminata.png-0203200992b0c84a5ee288227c5d8690.ctex"
+uid="uid://wh11a4s8ojnp"
+path="res://.godot/imported/Tileset.png-13ece8fb34a9e3c317abf7e07e6c3bfb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Characters/Perro/(C)Sprite-perrito-caminata.png"
-dest_files=["res://.godot/imported/(C)Sprite-perrito-caminata.png-0203200992b0c84a5ee288227c5d8690.ctex"]
+source_file="res://CharactersSprites/Tileset/Tileset.png"
+dest_files=["res://.godot/imported/Tileset.png-13ece8fb34a9e3c317abf7e07e6c3bfb.ctex"]
 
 [params]
 

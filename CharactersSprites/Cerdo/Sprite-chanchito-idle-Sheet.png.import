@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dwu3gsq4jki5c"
-path="res://.godot/imported/Sprite-conejito-idle-Sheet.png-629741b64510476aaa2e072ddd5f272a.ctex"
+uid="uid://0hj70lbk2a0w"
+path="res://.godot/imported/Sprite-chanchito-idle-Sheet.png-ee42c1cd499d7d4fd6d2fcab757c8e10.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Characters/Conejo/Sprite-conejito-idle-Sheet.png"
-dest_files=["res://.godot/imported/Sprite-conejito-idle-Sheet.png-629741b64510476aaa2e072ddd5f272a.ctex"]
+source_file="res://CharactersSprites/Cerdo/Sprite-chanchito-idle-Sheet.png"
+dest_files=["res://.godot/imported/Sprite-chanchito-idle-Sheet.png-ee42c1cd499d7d4fd6d2fcab757c8e10.ctex"]
 
 [params]
 
